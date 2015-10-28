@@ -8,15 +8,16 @@ if you have other link to share, you are welcome
 
 example :
 
-# ./dicoLink.sh 
+ ./dicoLink.sh 
 dicoLink help :
 -h to get this help
 -L list all db
 -l listall db without url
 -D Download active url
 -d <id> upload id url 
+ 
 
-# ./dicoLink.sh -l
+./dicoLink.sh -l
 Liste all db without url
 id  Type   active  filename
 0   xss    1       xss-fuzz-xplatforme.txt

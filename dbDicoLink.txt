@@ -1,0 +1,11 @@
+xss,1,xss-fuzz-xplatforme.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-xplatform.txt
+xss,0,xss-fuzz-win.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-win.txt
+xss,0,xss-fuzz-unix.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-unix.txt
+xpath,1,xpath-fuzz.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/xpath/xpath-injection.fuzz.txt
+sql,0,sql-fuzz-blind.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/sql-injection/detect/GenericBlind.fuzz.txt
+sql,1,sql-fuzz-xplatform.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/sql-injection/detect/xplatform.fuzz.txt
+xml,1,xml-fuzz.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/xml/xml-attacks.fuzz.txt
+rfi,1,rfi-fuzz.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/rfi/rfi.fuzz.txt
+pt,1,path-traversal-fuzz.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/path-traversal/traversals-8-deep-exotic-encoding.fuzz.txt
+mix,1,mix-fuzz.txt,https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-xplatform.txt
+file,0,filename.txt,https://raw.githubusercontent.com/maurosoria/dirs3arch/master/db/dirbuster/directory-list-2.3-medium.txt

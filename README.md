@@ -8,7 +8,7 @@ if you have other link to share, you are welcome
 
 example :
 
- ./dicoLink.sh 
+**./dicoLink.sh** 
 dicoLink help :
 -h to get this help
 -L list all db
@@ -17,7 +17,7 @@ dicoLink help :
 -d <id> upload id url 
  
 
-./dicoLink.sh -l
+**./dicoLink.sh -l**
 Liste all db without url
 id  Type   active  filename
 0   xss    1       xss-fuzz-xplatforme.txt
@@ -32,5 +32,5 @@ id  Type   active  filename
 9   mix    1       mix-fuzz.txt
 10  file   0       filename.txt
 
-# ./dicoLink.sh -d 9
+**./dicoLink.sh -d 9**
 GET mix-fuzz.txt
